@@ -1,0 +1,25 @@
+img {
+    display: block;
+
+}
+
+h1 {
+    text-align: center;
+    color: lightyellow;
+    font-size: xx-large;
+}
+
+#cool_images {
+    width: 50%;
+    display: inline-flex;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+#cool_images img {
+    margin-left: 10px;
+}
+
+#index.html {font-size: large;}
+
+
